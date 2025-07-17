@@ -1,0 +1,11 @@
+instalar o python - site
+instalar vscode - site
+
+cmd = pip install pyautogui pillow mouseinfo
+
+cmd = python 
+    >>>from mouseinfo import mouseInfo
+    >>> mouseInfo()    = enter
+    click F6 para pegar a coordenada
+
+ctrl + k + c = comenta tudo 
